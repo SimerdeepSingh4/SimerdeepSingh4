@@ -1,3 +1,6 @@
+
+![Full-stack](https://github.com/user-attachments/assets/93c41901-ea9e-44df-8989-ee8d63502dcc)
+
 👋 Hi, I'm Simerdeep Singh
 🚀 Full-Stack Developer | AI & ML Enthusiast | Tech Explorer
 
