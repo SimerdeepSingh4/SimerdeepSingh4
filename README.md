@@ -7,8 +7,9 @@
 💡 I have worked with Java and Python, focusing on improving my problem-solving skills and expanding my knowledge in backend development and automation.
 ⚡ I love tackling challenges and continuously learning new technologies.
 
-
-<img src="https://github.com/user-attachments/assets/9f6dd6e0-dbd6-4c12-9de4-d4da2f7da5a6" alt="img" width="400"/>
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/9f6dd6e0-dbd6-4c12-9de4-d4da2f7da5a6" alt="img" width="400"/>
+</p>
 
 
 # 💻 Tech Stack:
