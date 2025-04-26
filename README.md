@@ -2,13 +2,18 @@
 🚀 Full-Stack Developer | AI & ML Enthusiast | Tech Explorer
 
 ## 🙋‍♂️ About Me
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/9f6dd6e0-dbd6-4c12-9de4-d4da2f7da5a6" alt="img" width="400"/>
-</p>
-🎯 I’m a passionate Full-Stack Developer who enjoys working with modern web technologies.
-🛠️ I specialize in building scalable and efficient applications while exploring advancements in AI & ML.
-💡 I have worked with Java and Python, focusing on improving my problem-solving skills and expanding my knowledge in backend development and automation.
-⚡ I love tackling challenges and continuously learning new technologies.
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h2>🙋‍♂️ About Me</h2>
+    <p>🎯 I’m a passionate Full-Stack Developer who enjoys working with modern web technologies.<br>
+    🛠️ I specialize in building scalable and efficient applications while exploring advancements in AI & ML.<br>
+    💡 I have worked with Java and Python, focusing on improving my problem-solving skills and expanding my knowledge in backend development and automation.<br>
+    ⚡ I love tackling challenges and continuously learning new technologies.</p>
+  </div>
+  <div>
+    <img src="https://github.com/user-attachments/assets/9f6dd6e0-dbd6-4c12-9de4-d4da2f7da5a6" alt="img" width="400"/>
+  </div>
+</div>
 
 
 
