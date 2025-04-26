@@ -8,7 +8,7 @@
 ⚡ I love tackling challenges and continuously learning new technologies.
 
 
-![img](https://github.com/user-attachments/assets/9f6dd6e0-dbd6-4c12-9de4-d4da2f7da5a6)
+<img src="https://github.com/user-attachments/assets/9f6dd6e0-dbd6-4c12-9de4-d4da2f7da5a6" alt="img" width="400"/>
 
 
 # 💻 Tech Stack:
