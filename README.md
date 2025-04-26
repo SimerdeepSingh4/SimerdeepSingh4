@@ -7,7 +7,6 @@
 ## 🙋‍♂️ About Me
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
-    <h2>🙋‍♂️ About Me</h2>
     <p>🎯 I’m a passionate Full-Stack Developer who enjoys working with modern web technologies.<br>
     🛠️ I specialize in building scalable and efficient applications while exploring advancements in AI & ML.<br>
     💡 I have worked with Java and Python, focusing on improving my problem-solving skills and expanding my knowledge in backend development and automation.<br>
