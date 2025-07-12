@@ -47,6 +47,14 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SimerdeepSingh4&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">
+    📫 Let's connect on&nbsp;
+  <span style="display: inline-flex; align-items: baseline;">
+    <a href="https://www.linkedin.com/in/simerdeep-singh-gandhi-5569a7279" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </span>
+</p>
 
 ---
 
