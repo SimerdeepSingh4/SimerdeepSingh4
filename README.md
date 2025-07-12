@@ -51,10 +51,13 @@
 ---
 
 <p align="left">
-  📫 Let's connect on 
-  <a href="https://www.linkedin.com/in/simerdeep-singh-gandhi-5569a7279" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: bottom;" />
-  </a>
+  <span style="display: inline-flex; align-items: center;">
+    📫 Let's connect on&nbsp;
+    <a href="https://www.linkedin.com/in/simerdeep-singh-gandhi-5569a7279" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </span>
 </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
