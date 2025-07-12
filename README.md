@@ -1,22 +1,27 @@
 
 ![Full-stack](https://github.com/user-attachments/assets/93c41901-ea9e-44df-8989-ee8d63502dcc)
 
-👋 Hi, I'm Simerdeep Singh
-🚀 Full-Stack Developer | AI & ML Enthusiast | Tech Explorer
+# 👋 Hi, I'm Simerdeep Singh  
+🚀 Full-Stack Developer | AI & ML Enthusiast | Tech Explorer  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simerdeepsinghgandhi)
+
+---
 
 ## 🙋‍♂️ About Me
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
-    <p>🎯 I’m a passionate Full-Stack Developer who enjoys working with modern web technologies.<br>
-    🛠️ I specialize in building scalable and efficient applications while exploring advancements in AI & ML.<br>
-    💡 I have worked with Java and Python, focusing on improving my problem-solving skills and expanding my knowledge in backend development and automation.<br>
-    ⚡ I love tackling challenges and continuously learning new technologies.</p>
+    <p>🎯 Passionate Full-Stack Developer working with modern web technologies  
+🛠️ Specialize in building scalable and efficient applications, exploring AI & ML  
+💡 Skilled in Java and Python, with a strong focus on backend and automation  
+⚡ Always ready for new challenges and learning opportunities  
+</p>
   </div>
 
 </div>
 
 
-
+---
 
 
 ## 💻 Tech Stack
