@@ -11,10 +11,10 @@
 ## 🙋‍♂️ About Me
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
-    <p>🎯 Passionate Full-Stack Developer working with modern web technologies  
-🛠️ Specialize in building scalable and efficient applications, exploring AI & ML  
-💡 Skilled in Java and Python, with a strong focus on backend and automation  
-⚡ Always ready for new challenges and learning opportunities  
+    <p>🎯 Passionate Full-Stack Developer working with modern web technologies <br>
+🛠️ Specialize in building scalable and efficient applications, exploring AI & ML <br> 
+💡 Skilled in Java and Python, with a strong focus on backend and automation  <br>
+⚡ Always ready for new challenges and learning opportunities 
 </p>
   </div>
 
