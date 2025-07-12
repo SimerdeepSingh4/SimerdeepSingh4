@@ -51,7 +51,7 @@
 ---
 
 <p align="left">
-  <span style="display: inline-flex; align-items: center;">
+  <span style="display: inline-flex; align-items: end;">
     📫 Let's connect on&nbsp;
     <a href="https://www.linkedin.com/in/simerdeep-singh-gandhi-5569a7279" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
