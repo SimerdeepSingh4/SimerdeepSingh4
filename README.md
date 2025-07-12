@@ -39,7 +39,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 
 ---
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SimerdeepSingh4&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SimerdeepSingh4&theme=gruvbox&hide_border=false)<br/>
@@ -50,7 +49,7 @@
   <span style="display: inline-flex; align-items: center;">
     📫 Let's connect on&nbsp;
     <a href="https://www.linkedin.com/in/simerdeep-singh-gandhi-5569a7279" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"alt="LinkedIn Badge"/>
     </a>
   </span>
 </p>
