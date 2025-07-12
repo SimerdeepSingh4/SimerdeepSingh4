@@ -4,7 +4,7 @@
 # 👋 Hi, I'm Simerdeep Singh  
 🚀 Full-Stack Developer | AI & ML Enthusiast | Tech Explorer  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simerdeepsinghgandhi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simerdeep-singh-gandhi-5569a7279)
 
 ---
 
