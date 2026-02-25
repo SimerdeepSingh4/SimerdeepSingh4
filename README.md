@@ -46,7 +46,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SimerdeepSingh4&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SimerdeepSingh4&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
-<img width = "100%" height = "200px" src="https://streak-stats.demolab.com?user=SimerdeepSingh4&theme=dark&hide_border=true" alt="SimerdeepSingh4's GitHub Stats" />
+<!-- <img width = "100%" height = "200px" src="https://streak-stats.demolab.com?user=SimerdeepSingh4&theme=dark&hide_border=true" alt="SimerdeepSingh4's GitHub Stats" /> -->
 
 ---
 <p align="left">
