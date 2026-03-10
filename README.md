@@ -45,7 +45,7 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=SimerdeepSingh4&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 <!--![](https://nirzak-streak-stats.vercel.app/?user=SimerdeepSingh4&theme=gruvbox&hide_border=false)<br/>-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=SimerdeepSingh4&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
-![](https://streak-stats.demolab.com?user=SimerdeepSingh4&theme=dark&hide_border=true&v=2)
+![](https://streak-stats.demolab.com?user=SimerdeepSingh4&theme=dark&hide_border=true&v=1)
 
 ---
 <p align="left">
